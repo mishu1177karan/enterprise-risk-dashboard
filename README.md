@@ -176,10 +176,7 @@ This project directly applies concepts from:
 
 ## 🧑‍💻 Author
 
-**Mishu**  
-PGDM (2024–26) — Liability Insurance Specialisation  
-National Insurance Academy, Pune  
-Risk Management Intern — Aviva India, Gurugram
+Mishu Kumar 
 
 ---
 
